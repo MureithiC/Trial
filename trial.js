@@ -22,7 +22,7 @@ function q22() {
 
 //#3
 function q3() {
-    window.a = "hello";
+    window.a = "history";
 }
 
 
